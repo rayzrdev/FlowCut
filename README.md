@@ -1,4 +1,4 @@
-![FlowCut](resources/logo.png)
+![FlowCut](https://github.com/RayzrDev/FlowCut/raw/master/resources/logo.png)
 <br />
 > An efficient video editor entirely focused on optimizing your workflow. Fully FOSS.
 
