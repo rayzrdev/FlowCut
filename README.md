@@ -1,5 +1,6 @@
 ![FlowCut](https://github.com/RayzrDev/FlowCut/raw/master/resources/logo.png)
 <br />
+
 > An efficient video editor entirely focused on optimizing your workflow. Fully FOSS.
 
 ## About
@@ -17,7 +18,3 @@ The solution? Make a video editor workflow where everything can be done in just 
 The end goal is to have a video editor designed entirely with the end user in mind. Yes, a video editor needs to be fast and powerful and flexible. But that doesn't mean it has to be a pain to use. All tasks should be quick, easy, and intuitive for the end user.
 
 The purpose of FlowCut is to change video editing from being a struggle to a joy.
-
-## Join Us
-
-[![Discord Badge](https://github.com/Rayzr522/ProjectResources/raw/master/RayzrDev/badge-small.png)](https://rayzr.dev/join)
